@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E2FC57CA-70D1-4903-981E-85AD18796D8D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3313BCD6-BD8C-463A-8FF1-3DAA600C07FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeeklyFinder/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3313BCD6-BD8C-463A-8FF1-3DAA600C07FC - e6f8991d1706cafc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeeklyFinder.ViewController.__deallocating_deinit"
+                  moduleName = "WeeklyFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariaemelanova/Desktop/WeeklyFinder/WeeklyFinder/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "3313BCD6-BD8C-463A-8FF1-3DAA600C07FC - 9d416ef3479b7d58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeeklyFinder.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; WeeklyFinder.ViewController"
+                  moduleName = "WeeklyFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariaemelanova/Desktop/WeeklyFinder/WeeklyFinder/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "3313BCD6-BD8C-463A-8FF1-3DAA600C07FC - 957ddcd83468fd9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeeklyFinder.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; WeeklyFinder.ViewController"
+                  moduleName = "WeeklyFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariaemelanova/Desktop/WeeklyFinder/WeeklyFinder/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "257">
+               </Location>
+               <Location
+                  uuid = "3313BCD6-BD8C-463A-8FF1-3DAA600C07FC - 85ea065df3a8bda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeeklyFinder.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;WeeklyFinder.ViewController&gt;"
+                  moduleName = "WeeklyFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariaemelanova/Desktop/WeeklyFinder/WeeklyFinder/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "3313BCD6-BD8C-463A-8FF1-3DAA600C07FC - e5c28d07ca5fbfb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeeklyFinder.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;WeeklyFinder.ViewController&gt;"
+                  moduleName = "WeeklyFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mariaemelanova/Desktop/WeeklyFinder/WeeklyFinder/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "198">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
